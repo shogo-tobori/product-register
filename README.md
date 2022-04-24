@@ -1,7 +1,7 @@
 # Railsの勉強
 
 ## https://github.com/shogo-tobori/PythonLecture.git
-Railsと並行して勉強
+### Railsと並行して勉強
 
 
 
