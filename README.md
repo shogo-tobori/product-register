@@ -1,5 +1,10 @@
 # Railsの勉強
 
+## https://github.com/shogo-tobori/PythonLecture.git
+Railsと並行して勉強
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
